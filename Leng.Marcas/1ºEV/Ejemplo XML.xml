@@ -1,0 +1,20 @@
+<poblacion id="1" name="" value="">
+<persona>
+	<nombre>Angela</nombre>
+	<edad>20</edad>
+	<ciudad>Zaragoza</ciudad>
+</persona>
+
+<persona>
+	<nombre>Pablo</nombre>
+	<edad>50</edad>
+	<ciudad>Toledo</ciudad>
+</persona>
+
+<persona>
+	<nombre>Felipe</nombre>
+	<edad>30</edad>
+	<ciudad>Madrid</ciudad>
+</persona>
+
+</poblacion id="" name="" value="">

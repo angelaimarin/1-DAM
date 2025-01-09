@@ -1,0 +1,5 @@
+IMPORTXML() 	scraping de datos HTML,XML 
+		de cualquier etiqueta.
+
+IMPORTHTML() 	scraping solo HTML solo listas o 
+		tablas sacar todos los datos listas o tablas

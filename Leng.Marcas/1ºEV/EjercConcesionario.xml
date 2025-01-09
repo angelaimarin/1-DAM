@@ -1,0 +1,20 @@
+﻿			<?xml version="1.0"?>
+			<Concesionario>
+			  <Coche año="2005" precio="400.000" >
+				 
+				  <Matricula>6795</Matricula>
+				  <Kilometros>1.200</Kilometros>
+				  <Marca>Renault</Marca>
+				  <Modelo>Scenic</Modelo>
+				  <Potencia>220</Potencia>
+				 
+				  <Extras>
+					   <Asientos>5</Asientos>
+					   <Cambio>Manual</Cambio>
+					   <Paquete>No</Paquete>
+					   <Techo>No</Techo>
+				  </Extras>
+				  
+			  </Coche>
+			</Concesionario>
+			
