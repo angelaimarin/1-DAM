@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>  
+  <ConfigurationVersion>1.4</ConfigurationVersion>
+  <SecurityENS>
+    <ComplianceLevel>Alta</ComplianceLevel>
+	<SecurityUpdates>
+      <AnalyseMissingUpdates>0</AnalyseMissingUpdates>
+      <CabFile>.\wsusscn2.cab</CabFile>
+    </SecurityUpdates>
+  </SecurityENS>
+  <Network>
+    <CommunicationPort>11000</CommunicationPort>
+    <CommunicationBufferSize>10485760</CommunicationBufferSize>
+  </Network>
+  <Additional>
+    <ReportFolder>.\informes</ReportFolder>
+    <LogFolder>.\logs</LogFolder>
+  </Additional> 
+</configuration>
+
