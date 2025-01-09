@@ -1,0 +1,25 @@
+1Examen Entornos de desarrollo
+Caso con tareas de ciclo de vida
+1. Identificar los factores clave que influyen en la elección del modelo de ciclo de vida de software para este proyecto en particular
+
+2. Discutir y justificar que modelo ( o combinación de modelos) seria mas adecuado dados los indicios proporcionados por el enunciado.
+
+3. Definir y explicar las distintas fases del ciclo de vida que seguirían en el modelo elegido, detallando las actividades a realizar en cada fase para lograr el desarrollo exitoso de la aplicación.
+
+4. realizar un diagrama de Gantt: Basándose en las fases identificadas y las tareas asociadas, elaborar un diagrama de Gantt que muestre la planificación temporal del proyecto. El diagrama debe representar la duración estimada de cada fase y las tareas dentro de cada fase a lo largo del tiempo.
+
+
+5. Que factores influyen a la hora de elegir un ciclo de vida para resolver un problema dado:
+Al momento de elegir un ciclo de vida para dar solución a un problema planteándose deben tener en cuenta los siguientes factores.
+- Dimensión del proyecto (tamaño del programa) * ME FALTA PDF EN CLASSROOM 
+
+
+6. Que ciclo de vida elegiría para resolver un problema que se comprende bien desde el principio y esta muy estructurado Una vez elegido el ciclo de vida que procesos escogería para dicho ciclo de vida teniendo en cuenta que el desarrollo procesos escogería para dicho ciclo de vida teniendo en cuenta que el desarrollo informático para resolver el problema anterior lo realiza una única persona. * ME FALTA PDF EN CLASSROOM 
+
+
+7. Se supone que se va a a desarrollar una aplicación relativa a la gestión de pedidos de una empresa. En este caso el cliente no tiene todavía muy claro que es lo que quiere Además el personal informático va a utilizar una tecnología que le resulta completamente nueva. Discútase que tipo de ciclo de vida es mas apropiado y que procesos se deberían de utilizar para desarrollar esta aplicación.* ME FALTA PDF EN CLASSROOM 
+
+
+
+
+

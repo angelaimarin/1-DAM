@@ -1,0 +1,41 @@
+.Titulo{
+    font-family: 'Avenir Next LT Pro';
+    text-align: center;
+    text-shadow: -2px 9px 5px #000000;
+    font-style: italic;
+}
+
+
+body {
+      background-image: url('istockphoto-969497390-170667a.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+    }
+
+div h2{
+          text-align: center;
+          padding-top: 150px; /* Ajusta este valor para bajar el texto */
+          font-family: 'Avenir Next LT Pro';
+           font-style: italic;
+
+        }
+
+.hola h3{
+           margin-left: 600px; /* Alinea desde la izquierda con margen */
+           padding-top: 30px; /* Ajusta el valor para bajar el texto */
+          font-family: Georgia;
+        }
+
+button {
+   background-color: white;
+   color: orange;
+   border: 2px solid orange;
+   border-radius: 50px;
+   text-align: center;
+   display: inline-block;
+   font-size: 20px;
+   margin-left: 790px;
+   padding-top: 5px;
+   width: 100px;
+ }

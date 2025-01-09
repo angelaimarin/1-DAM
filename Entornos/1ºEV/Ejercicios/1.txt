@@ -1,0 +1,48 @@
+Enunciado del Ejercicio Práctico
+Contexto del Proyecto:
+
+La empresa SecureData Corp. ha sido contratada para desarrollar un sistema de gestión de datos clínicos para un hospital. Este sistema debe permitir a los médicos y al personal administrativo registrar, consultar y gestionar la información de los pacientes de manera segura y eficiente. Además, el sistema debe cumplir con estrictas normativas de protección de datos y garantizar la integridad y confidencialidad de la información.
+
+Requisitos del Proyecto:
+
+Funcionalidades Principales:
+Registro y consulta de datos clínicos de los pacientes.
+Gestión de citas y historial médico.
+Generación de reportes médicos y administrativos.
+Alta seguridad y cumplimiento con normativas de protección de datos.
+Restricciones:
+El sistema debe ser altamente fiable y seguro.
+El desarrollo debe seguir un proceso estructurado y bien documentado.
+El proyecto debe completarse en un plazo de 12 meses.
+
+
+
+Tareas a Realizar:
+Identificación de Factores Clave: 
+
+Identificar los factores clave que influyen en la elección del modelo de ciclo de vida de software para este proyecto en particular. Considerar aspectos como la fiabilidad, la seguridad, el cumplimiento normativo y la necesidad de una documentación exhaustiva.
+Justificación del Modelo: Discutir y justificar qué modelo (o combinación de modelos) sería más adecuado dados los indicios proporcionados por el enunciado. Considerar las metodologías vistas en clase: Cascada, Incremental, Espiral, V y metodologías ágiles basadas en SCRUM.
+Definición de Fases: Definir y explicar las distintas fases del ciclo de vida que seguirían en el modelo elegido, detallando las actividades a realizar en cada fase para lograr el desarrollo exitoso de la aplicación. Incluir actividades como análisis de requisitos, diseño, implementación, pruebas, despliegue y mantenimiento.
+Diagrama de Gantt: Basándose en las fases identificadas y las tareas asociadas, elaborar un diagrama de Gantt que muestre la planificación temporal del proyecto. El diagrama debe representar la duración estimada de cada fase y las tareas dentro de cada fase a lo largo del tiempo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
