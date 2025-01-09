@@ -1,0 +1,21 @@
+MANEJO DE CADENAS
+-----------------
+String  mensaje = "HOLA"
+mensaje.length ()
+mensaje.getChar (0) ---> 'H'
+
+MANEJO ARRAY 
+-------------
+String [] lista = new String[] ("Luis","Juan");
+lista[0] ----> "Luis" // Sacar
+lista[0] = "Pedro"; // {"Pedro","Juan"} Sustituir
+lista[2] = "Miguel" // {"Pedro","Juan","Miguel"}
+
+MANEJO LIST
+------------
+List<Integer> listaNum = new ArrayList<>() ;
+listaNum.add (1)  {1}
+listaNum.add(2)    {1,2}
+listaNum.get (0) ----> 1
+listaNum.set (1,5) ----> {1,5}
+listaNum.drop(1) -----> {1}
