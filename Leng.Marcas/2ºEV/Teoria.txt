@@ -1,0 +1,21 @@
+Q es get - incluyen toda la información requerida o necesaria dentro del URL (localizador de recursos uniforme).
+Como cuando hacemos un Split en java que dividimos una cadena de texto en subcadenas más pequeñas 
+Q es post - proporcionar información adicional del cliente (navegador) al servidor dentro del cuerpo del mensaje. 
+Diferencia entre q es get y post
+	
+GET:
+1. Los datos se envían en la URL de la solicitud.
+
+2. Tiene una limitación en la cantidad de datos que se pueden enviar (alrededor de 2000 caracteres).
+
+3. Es menos seguro que POST, ya que los datos son visibles en la URL.
+
+POST:
+1. Los datos se envían en el cuerpo de la solicitud HTTP.
+
+2. Permite enviar grandes cantidades de datos sin restricciones específicas.
+
+3. Es más seguro que GET, ya que los datos no son visibles en la URL.
+
+
+Q es el Split -datagrama 
