@@ -1,0 +1,42 @@
+clear - limpiar cmd
+cd/cd .. - para entrar o salir de carpetas o ficheros
+mv - mover archivos o carpetas de sitio
+ls - ver los archivos de donde estamos
+ls -l -para ver los permisos de los archivos (identificar q es cuando nos sale -rw-r--r-- q es el primero rw para tu usuario , -r -- para grupo de usuarios 
+y --r-- para otros ósea grupos de terceros en el que r es de read w es write y d es una carpeta y x ejecución)
+pwd - donde estamos
+mkdir - crear carpeta o directorio
+rmdir - eliminar carpeta o directorio
+cp - copiar elementos (cp -r)
+--help -pedir ayuda con los comandos
+touch nombre.txt - crear archivos
+echo "hola" > archivo.txt - añade contenido a un archivo 
+echo archivo.txt - muestra lo que contiene el archivo
+echo "hola2" >> archivo.txt - añade contenido a un archivo sin sobre escribirle lo q tenga
+cat > pruebacat.txt - puedo crear y añadir información en líneas en un archivo
+saliendo y guardando con control C
+nano pruebananoete.txt- crea y edita un archivo 
+vi pruebananoete.txt - crea y edita un archivo
+chmod - dar permisos (usuarios, grupos y otros) "letras o numeros"
+ps -T  -ver tiempo de los procesos
+ps - versión extendida para ver todos los procesos
+ps - ux  -ver procesos del usuario 
+kill - matamos o detenemos procesos
+sudo install nombreprograma - instalar un programa
+sudo systemctl enable httpd - activar servicio
+sudo systemctl http - iniciar el servicio
+sudo systemctl status - ver estado de los servicios
+ifconfig - ver la ip
+sudo firewall-cmd --permanent --add-port=80/tcp - habitar puertos
+sudo firewall-cmd --reload
+usermod - l Angela admin  - para configurar el acceso del usuario en el sistema
+------CREAR UN SERVIDOR EN EL CMD
+sudo yum install httpd
+systemctl enable httpd
+systemctl start httpd
+systemctl status httpd
+sudo - i (da todos los permisos al usuario como admin ósea como root en el sistema)
+ifconfig - ver la configuración de la ip 
+Cambiar al conector Bridge y reiniciar la maquina virtual
+pin y la ip - permite ver la conexión entre tu ordenador y el sitio u ordenador al que quieras ver tu conectividad
+
