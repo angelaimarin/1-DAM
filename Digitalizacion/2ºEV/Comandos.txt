@@ -1,0 +1,3 @@
+cd - acceder a carpetas o directorios
+mkdir - crear 
+sudo apt-get install sublim - instalar el paquete sublime
