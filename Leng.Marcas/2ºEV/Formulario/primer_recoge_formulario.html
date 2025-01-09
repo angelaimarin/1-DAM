@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HTML Editor - Full Version</title>
+</head>
+<body>
+<form action="primer_recoge_formulario.php" method="POST" name="mi_primer_formulario" target="_blank">
+	<!-- <form>: Es la etiqueta que define el formulario.
+		action="primer_recoge_formulario.php": Específica la URL del archivo que procesará los datos del formulario cuando se envíe. En este caso, se envía a un archivo llamado primer_recoge_formulario.php.
+		method="POST": Especifica el método HTTP que se utilizará para enviar los datos del formulario. En este caso, se utiliza el método POST, que envía los datos en el cuerpo de la solicitud HTTP.
+		name="mi_primer_formulario": Especifica el nombre del formulario. Esto puede ser útil para identificar el formulario en JavaScript o en el servidor.
+		target="_blank": Especifica dónde se abrirá la respuesta del servidor después de enviar el formulario. En este caso, se abre en una nueva pestaña o ventana del navegador. -->
+<table border="0" cellpadding="1" cellspacing="1" style="height:0px;width:400px;">
+	<tbody>
+		<tr>
+			<td><label for="nombre">Nombre:</label></td>
+			<td><input maxlength="25" name="nombre" size="25" type="text" /></td>
+			<!-- La etiqueta `input` se utiliza para crear un campo de entrada de texto en un formulario HTML.
+			* `type="text"`: Especifica que el campo de entrada es de tipo texto.
+			* `name="nombre"`: Especifica el nombre del campo de entrada, que se utilizará para identificar el valor del campo cuando se envíe el formulario.
+			* `maxlength="25"`: Especifica la longitud máxima del texto que se puede ingresar en el campo.
+			* `size="25"`: Especifica el ancho del campo de entrada en caracteres. -->
+		</tr>
+		<tr>
+			<td><label for="contrasena">Contrase&ntilde;a</label></td>
+			<td><input maxlength="25" name="contrasena" size="25" type="password" /></td>
+		</tr>
+		<tr>
+			<td><input name="Enviar" type="submit" value="Enviar" /><input name="Borrar" type="reset" value="Borrar" /></td>
+<!-- type="submit": Este botón envía el formulario al servidor cuando se hace clic en él. El atributo value especifica el texto que se muestra en el botón, en este caso "Enviar".
+type="reset": Este botón reinicia el formulario a su estado inicial, borrando cualquier valor que se haya ingresado en los campos. El atributo value especifica el texto que se muestra en el botón, en este caso "Borrar".
+En resumen, este código crea dos botones en la misma celda de tabla:
+Un botón "Enviar" que envía el formulario al servidor cuando se hace clic en él.
+Un botón "Borrar" que reinicia el formulario a su estado inicial cuando se hace clic en él.-->
+
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+<select name="trabajos"">
+	<option value="formacion">Formación</option>
+	<option value="programador" selected>Programador</option>
+	<option value="director">Director</option>
+  </select>
+
+
+
+  <textarea cols="20" name="area" rows="10"></textarea>
+
+
+
+
+<p>&nbsp;</p>
+</form>
+</body>
+</html>
